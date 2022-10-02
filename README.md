@@ -1,2 +1,2 @@
 # Enhanced-Snake-and-Ladder-Game
-objectoriented programming project
+object oriented programming project
